@@ -57,6 +57,7 @@ This project is a lightweight, high-performance data visualization component des
 
 ## 📁 Project Structure
 
-```text
-├── index.html        # Main HTML file containing the Canvas & Chart.js code
+├── index.html        # HTML structure & Chart.js canvas element
+├── styles.css        # Layout, spacing, and custom CSS styles
+├── script.js        # Chart instantiation logic & dataset config
 └── README.md         # Repository documentation
